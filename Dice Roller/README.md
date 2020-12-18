@@ -1,1 +1,2 @@
-#Dice roller app with imageView and button
+# Dice roller app with imageView and button
+## Basics
