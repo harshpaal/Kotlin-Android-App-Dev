@@ -1,1 +1,1 @@
-*Implemented tranfer learning on MobileNet
+#Implemented tranfer learning on MobileNet
